@@ -1,0 +1,16 @@
+name: xpublish_env_2023
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - xarray=2023
+  - dask
+  - netcdf4
+  - xpublish
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - dotenv
+  - aiohttp
